@@ -1,0 +1,14 @@
+{
+  "Gemfile": "36c376f27539ded2a321b2bd432e843b",
+  "LICENSE": "1de161cd62e5aaf7ede06ab10310895b",
+  "README.md": "2d2926720085cb4dcf6dc44f2d4d7ce4",
+  "Rakefile": "f4692851f7e9afcdb02721319e3f18b9",
+  "examples/init.pp": "dfb64d44e52e8f94d7faa1f7024c9839",
+  "files/webserver.conf": "bec18317c16a19f4bad6d12e34444547",
+  "lib/facter/ruby_majversion.rb": "220a0798b4e3a83b72d1d88a954d87ec",
+  "manifests/init.pp": "36f00f586580ee7ad0fd499f129aee7a",
+  "metadata.json": "1af5c45cf288ca79eb3a7697f60c4b82",
+  "spec/classes/init_spec.rb": "f3a6e550f2ec45c697145cb5cdcbe6f6",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "templates/puppetserver.conf.erb": "21396ab67241133f2b9073de104eda3d"
+}
