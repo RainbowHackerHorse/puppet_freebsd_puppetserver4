@@ -10,11 +10,13 @@
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 4.20.0"}
   ],
+  "data_provider": null,
   "operatingsystem_support": [
     {
-      "operatingsystem":"FreeBSD",
-      "operatingsystemrelease":[ ">= 10.0-RELEASE < 12.0-RELEASE"]
+      "operatingsystem": "FreeBSD",
+      "operatingsystemrelease": [
+        ">= 10.0-RELEASE < 12.0-RELEASE"
+      ]
     }
-  ],
-  "data_provider": null
+  ]
 }
